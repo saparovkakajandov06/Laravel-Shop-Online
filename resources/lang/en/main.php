@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'online_shop' => 'Online Market',
+    'all_products' => 'Ähli harytlar',
+    'product' => 'Haryt',
+    'categories' => 'Kategoriýalar',
+    'all_categories' => 'Ähli kategoriýalar',
+    'category' => 'Kategoriýa ',
+    'cart' => 'Siziň sebediňiz',
+    'reset_project' => 'Reset project to default state',
+    'current_lang' => 'tm',
+    'set_lang' => 'ru',
+    'properties' => [
+        'hit' => 'Meşhur',
+        'recommend' => 'Maslahat berilýän',
+        'new' => 'Täze',
+    ],
+    'filter' => 'Gözle',
+    'reset' => 'Beset',
+    'price_from' => 'Bahadan',
+    'to' => 'Baha',
+    'login' => 'Ulgama gir',
+    'logout' => 'Çykmak',
+    'my_orders' => 'Meniň sargytlarym',
+    'admin_panel' => 'Admin sazlamalary',
+    'title' => 'Esasy',
+    'rub' => 'rub',
+    'add_to_basket' => 'Sebede goş',
+    'more' => 'Giňişleýin',
+    'not_available' => 'Elýeterli däl',
+    'project_reset' => 'Gözleg bes edildi',
+];
